@@ -1,0 +1,16 @@
+main {
+  background-image: url(https://images.unsplash.com/photo-1587280501635-68a0e82cd5ff?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  min-height: 100dvh;
+}
+
+.font-size-realistic-sports {
+  font-size: 27px;
+}
+
+.ersb-font-size {
+  font-size: 50px;
+}
